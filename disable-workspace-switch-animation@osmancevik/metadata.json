@@ -1,0 +1,14 @@
+{
+  "name": "Disable Workspace Switch Animation",
+  "description": "Disable workspace switch animations in GNOME Shell for instant switching..",
+  "uuid": "disable-workspace-switch-animation@osmancevik",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "url": "https://github.com/osmancevik/gnome-extension-disable-workspace-switch-animation"
+}
