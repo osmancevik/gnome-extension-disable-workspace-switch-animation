@@ -2,11 +2,9 @@
 
 A lightweight GNOME Shell extension that disables the workspace sliding animation, making workspace switching completely instant and snappy.
 
-## Comparison
-
-| Before | After | 
-| :---: | :---: |
-| ![Before](assets/before.gif) | ![After](assets/after.gif) |
+<p align="center">
+  <img src="assets/after.gif" alt="Instant Workspace Switch Demo" width="90%" />
+</p>
 
 ### Note on Compatibility
 
